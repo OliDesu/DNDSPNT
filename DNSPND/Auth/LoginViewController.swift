@@ -16,7 +16,7 @@ struct LoginViewControllerWrapper: UIViewControllerRepresentable {
         let loginViewController = LoginViewController()
         loginViewController.onLoginSuccess = {
             self.isLoggedIn = true
-        }s
+        }
         return loginViewController
     }
 
