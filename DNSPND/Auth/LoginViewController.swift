@@ -16,12 +16,11 @@ struct LoginViewControllerWrapper: UIViewControllerRepresentable {
         let loginViewController = LoginViewController()
         loginViewController.onLoginSuccess = {
             self.isLoggedIn = true
-        }
+        }s
         return loginViewController
     }
 
     func updateUIViewController(_ uiViewController: LoginViewController, context: Context) {
-        // No update logic needed for this example
     }
 }
 
