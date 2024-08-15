@@ -17,7 +17,6 @@
 		D46E79792C6A901E00E4C0B5 /* AuthenticationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E796F2C6A901E00E4C0B5 /* AuthenticationView.swift */; };
 		D46E797A2C6A901E00E4C0B5 /* LandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79702C6A901E00E4C0B5 /* LandingView.swift */; };
 		D46E797B2C6A901E00E4C0B5 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79712C6A901E00E4C0B5 /* LoginViewController.swift */; };
-		D46E797C2C6A901E00E4C0B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79722C6A901E00E4C0B5 /* SceneDelegate.swift */; };
 		D46E79822C6CF4D000E4C0B5 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79812C6CF4D000E4C0B5 /* User.swift */; };
 		D46E79842C6D000800E4C0B5 /* UserDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79832C6D000800E4C0B5 /* UserDataService.swift */; };
 		D46E79882C6D016800E4C0B5 /* RegisterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46E79872C6D016800E4C0B5 /* RegisterViewModel.swift */; };
@@ -54,7 +53,6 @@
 		D46E796F2C6A901E00E4C0B5 /* AuthenticationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AuthenticationView.swift; sourceTree = "<group>"; };
 		D46E79702C6A901E00E4C0B5 /* LandingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandingView.swift; sourceTree = "<group>"; };
 		D46E79712C6A901E00E4C0B5 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		D46E79722C6A901E00E4C0B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		D46E79812C6CF4D000E4C0B5 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		D46E79832C6D000800E4C0B5 /* UserDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataService.swift; sourceTree = "<group>"; };
 		D46E79872C6D016800E4C0B5 /* RegisterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewModel.swift; sourceTree = "<group>"; };
@@ -117,7 +115,6 @@
 				D46E796F2C6A901E00E4C0B5 /* AuthenticationView.swift */,
 				D46E79702C6A901E00E4C0B5 /* LandingView.swift */,
 				D46E79712C6A901E00E4C0B5 /* LoginViewController.swift */,
-				D46E79722C6A901E00E4C0B5 /* SceneDelegate.swift */,
 			);
 			name = Auth;
 			path = ../../Stylor/Stylor/Auth;
@@ -351,7 +348,6 @@
 				D4BD2B832C69152B00167818 /* DNSPNDApp.swift in Sources */,
 				D46E797B2C6A901E00E4C0B5 /* LoginViewController.swift in Sources */,
 				D46E79822C6CF4D000E4C0B5 /* User.swift in Sources */,
-				D46E797C2C6A901E00E4C0B5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
