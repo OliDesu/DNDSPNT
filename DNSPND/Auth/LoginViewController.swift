@@ -1,10 +1,11 @@
+
 //
 //  LoginViewController.swift
 //  DNSPND
 //
 //  Created by Ali El Mufti on 11/08/2024.
 //
-
+// Trying to make hhe auth relevante todo
 import UIKit
 import FirebaseAuth
 import SwiftUI
